@@ -1,7 +1,17 @@
+.k2{
+    width: 100%;
+    height: 30px;
+    background-color: #926FF6;
+}
+
+
+
 .header{
 
     background-color:  #926FF6;
     ;
+    height: 150px;
+   
 }
 
 .navbar-brand{
@@ -20,3 +30,54 @@
     font-size: 11.69px !important;
     
 }
+
+.g1{
+color:#FFE074;
+background-color: #926FF6;
+}
+
+.g2{
+    font-family: Poppins;
+    color: white !important;
+    font-weight: 800 ;
+    font-size: 62.8px !important;
+    margin-top: 20px;
+}
+
+.G{
+  
+background-color: #926FF6;
+width: 100%;
+height: 300px;
+}
+
+.g3{
+    font-family: Poppins;
+    color: white !important;
+    font-weight: 300 ;
+    font-size: 13.2px !important;
+    margin-top: 10px;
+}
+
+.K{
+    position: absolute;
+   width: 38px;
+   height: 38px;
+border: 2px solid rgb(255, 255, 255);
+border-radius: 50%;
+left: 705px;
+top: 353px;
+}
+
+.K1{
+    position: absolute;
+width: 9px;
+height:9px ;
+border-bottom:  2px  solid rgb(255, 255, 255);
+border-right:  2px  solid rgb(255, 255, 255);
+transform: rotate(45deg);
+top: 366px;
+left: 719px ;
+}
+
+
