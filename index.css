@@ -1,3 +1,9 @@
+body{
+background-color: #F2F2F2;
+
+}
+
+
 .k2{
     width: 100%;
     height: 30px;
@@ -94,9 +100,28 @@ color: #FFAE00;
 
 justify-content: center;
 
-
 }
 
+.imag1{
+
+    width: 46px;
+    height: 46px;
+    
+}
+
+
+.p{
+    font-family: Poppins;
+color: #F3849F;
+font-weight: 700 ;
+font-size: 16px;
+display: inline;
+ }
+
+.image2{
+    position: absolute;
+    top: 900px;
+}
 
 
 
