@@ -219,6 +219,7 @@ font-size: 12.27px;
      margin-top: 15px;
 }
 
+
 .p3{
 
 display: flex;
@@ -246,4 +247,39 @@ font-size: 11.69px;
 color: #ffff;
 left: 18px;
 top: 2px;
+}
+
+.cnt{
+margin-top:30px;
+
+}
+.bad3{
+
+    width: 359px;
+    height: 321px;
+}
+
+.bad4{
+   
+width: 545px;
+height: 321px;
+}
+
+.bad1{
+    margin-bottom: 20px;
+width: 545px;
+height: 381px;
+}
+.bad2{
+    width: 359px;
+    height: 381px;
+
+}
+
+.bad5{
+    margin-bottom: 20px;
+}
+
+.bad6{
+    margin-bottom: 20px;
 }
