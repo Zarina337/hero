@@ -354,3 +354,27 @@ color:#4f4f4f;
 .y3{
     color: #79cfff !important;
 }
+
+
+.m1{
+    background-color: #333333;
+    width: 100%;
+height: 154px;
+position: relative;
+
+}
+
+.m3{
+    position: absolute;
+    top: 50px;
+    left: 720px;
+    font-size: 14px;
+}
+
+.m4{
+    position: absolute;
+    top: 90px;
+    left: 840px;
+    
+}
+
